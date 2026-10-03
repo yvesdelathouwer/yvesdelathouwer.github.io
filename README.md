@@ -33,9 +33,10 @@ All programs run in the browser, are free and need no registration; each produce
 
 ## Research on EN 1992-4
 
-- *Where Are the Cracks in the Definition of "Cracked Concrete"?* — https://doi.org/10.5281/zenodo.22172139
-- *The Pry-Out Factor* — https://doi.org/10.5281/zenodo.22772444
-- *Does the Front Row Carry It All? Concrete edge failure of multi-row anchor groups* — https://doi.org/10.5281/zenodo.22936315
+- *Seven Questions for EN 1992-4* — https://doi.org/10.20944/preprints202609.2638.v1 (Zenodo: https://doi.org/10.5281/zenodo.23124565)
+- *Where Are the Cracks in the Definition of "Cracked Concrete"?* — https://doi.org/10.20944/preprints202609.2676.v1 (Zenodo: https://doi.org/10.5281/zenodo.22145460)
+- *The Pry-Out Factor* — https://doi.org/10.20944/preprints202609.2673.v1 (Zenodo: https://doi.org/10.5281/zenodo.22772444)
+- *Does the Front Row Carry It All? Concrete edge failure of multi-row anchor groups* — https://doi.org/10.20944/preprints202609.2670.v1 (Zenodo: https://doi.org/10.5281/zenodo.22936315)
 - *The Shared-Volume Anchorage Method* — https://doi.org/10.5281/zenodo.22166586
 
 Articles: https://eng.adit.org.il/articles/
